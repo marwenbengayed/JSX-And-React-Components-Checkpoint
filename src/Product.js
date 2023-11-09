@@ -1,3 +1,4 @@
+//create Product object
 const Product= {
     Name: "Tesla Roadster",
         Price: "$200,000",
@@ -5,7 +6,7 @@ const Product= {
                 ImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tesla_Roadster_-_Flickr_-_Alexandre_Pr%C3%A9vot_%281%29.jpg/220px-Tesla_Roadster_-_Flickr_-_Alexandre_Pr%C3%A9vot_%281%29.jpg",
        
     };
-export default Product;
+export default Product; //export Product component
 
 
     
